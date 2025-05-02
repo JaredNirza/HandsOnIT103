@@ -1,0 +1,7 @@
+Student Grades:
+Carll: 92
+Alexx: 88
+Jarr: 76
+Yukii: 84
+Akarii: 95
+Average Grade: 87.00
